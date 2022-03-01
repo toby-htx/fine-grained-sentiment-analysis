@@ -24,4 +24,4 @@ To evaluate our models, we used **Recall** as our primary metric as we conceived
 
 A summary of our data cleaning, vectorisation, training, and results are as below:
 
-![image](https://user-images.githubusercontent.com/81354022/155878385-a4d03249-883d-4e5d-9b26-92493b045b42.png) 
+![image](https://user-images.githubusercontent.com/81354022/156214648-1118e143-c5ba-4954-b44e-ba1f652d456e.png)
